@@ -3,11 +3,11 @@ A simple blog, where you can post your articles, create groups, add comments, an
 
 Some modules and frameworks that were used for this project:
 Bootstrap<br>
-unittest
-tempfile
-shutil
-SimpleUploadedFile
-Paginator
-LocMemCache
-flatpages
+unittest<br>
+tempfile<br>
+shutil<br>
+SimpleUploadedFile<br>
+Paginator<br>
+LocMemCache<br>
+flatpages<br>
 EmailBackend
